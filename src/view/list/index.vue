@@ -2,7 +2,7 @@
      <div>
          列表
          <br>
-         <button @click="toDetail">详情也</button>
+         <button @click="toDetail">详情也as</button>
      </div>
 </template>
 
